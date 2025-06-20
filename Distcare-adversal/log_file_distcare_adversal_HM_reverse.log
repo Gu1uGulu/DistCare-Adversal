@@ -1,0 +1,22 @@
+2024-01-17 15:56:16,739 - __main__ - INFO - 这是希望输出的info内容
+2024-01-17 15:56:16,739 - __main__ - WARNING - 这是希望输出的warning内容
+2024-01-17 15:56:44,274 - __main__ - INFO - 32269
+2024-01-17 15:56:44,274 - __main__ - INFO - 4034
+2024-01-17 15:56:44,275 - __main__ - INFO - 4033
+2024-01-17 15:56:54,752 - __main__ - INFO - Batch 0: Test Loss = 0.0866
+2024-01-17 15:56:58,249 - __main__ - INFO - 
+==>Predicting on test
+2024-01-17 15:56:58,249 - __main__ - INFO - Test Loss = 0.1194
+2024-01-17 15:56:58,375 - __main__ - INFO - load target data
+2024-01-17 15:57:02,351 - __main__ - INFO - Batch 0: Test Loss = 0.1309
+2024-01-17 15:57:07,462 - __main__ - INFO - Batch 20: Test Loss = 0.1464
+2024-01-17 15:57:12,179 - __main__ - INFO - Batch 40: Test Loss = 0.1320
+2024-01-17 15:57:16,897 - __main__ - INFO - Batch 60: Test Loss = 0.1008
+2024-01-17 15:57:22,000 - __main__ - INFO - Batch 80: Test Loss = 0.0734
+2024-01-17 15:57:26,931 - __main__ - INFO - Batch 100: Test Loss = 0.0563
+2024-01-17 15:57:32,080 - __main__ - INFO - Batch 120: Test Loss = 0.0909
+2024-01-17 15:57:33,494 - __main__ - INFO - last saved model is in epoch 0
+2024-01-17 15:57:33,862 - __main__ - INFO - Batch 0: Test Loss = 0.3345
+2024-01-17 15:57:37,934 - __main__ - INFO - 
+==>Predicting on test
+2024-01-17 15:57:37,935 - __main__ - INFO - Test Loss = 0.2608

@@ -1,0 +1,130 @@
+2024-01-18 00:55:23,707 - __main__ - INFO - 这是希望输出的info内容
+2024-01-18 00:55:23,708 - __main__ - WARNING - 这是希望输出的warning内容
+2024-01-18 00:56:08,307 - __main__ - INFO - 32269
+2024-01-18 00:56:08,307 - __main__ - INFO - 4034
+2024-01-18 00:56:08,308 - __main__ - INFO - 4033
+2024-01-18 00:56:14,627 - __main__ - INFO - load target data
+2024-01-18 00:56:17,723 - __main__ - INFO - Training Student
+2024-01-18 00:56:23,913 - __main__ - INFO - Epoch 0 Batch 0: Train Loss = 1.7484
+2024-01-18 00:56:33,386 - __main__ - INFO - Epoch 0 Batch 20: Train Loss = 1.5566
+2024-01-18 00:56:42,525 - __main__ - INFO - Epoch 0 Batch 40: Train Loss = 1.5362
+2024-01-18 00:56:51,415 - __main__ - INFO - Epoch 0 Batch 60: Train Loss = 1.5054
+2024-01-18 00:57:00,127 - __main__ - INFO - Epoch 0 Batch 80: Train Loss = 1.4599
+2024-01-18 00:57:09,641 - __main__ - INFO - Epoch 0 Batch 100: Train Loss = 1.4356
+2024-01-18 00:57:18,530 - __main__ - INFO - Epoch 0 Batch 120: Train Loss = 1.4167
+2024-01-18 00:57:21,420 - __main__ - INFO - ------------ Save best model - TOTAL_LOSS: 1.3807 ------------
+2024-01-18 00:57:21,810 - __main__ - INFO - ------------ Save best model - TOTAL_LOSS: 1.3551 ------------
+2024-01-18 00:57:23,244 - __main__ - INFO - ------------ Save best model - TOTAL_LOSS: 1.3302 ------------
+2024-01-18 00:57:26,815 - __main__ - INFO - Epoch 1 Batch 0: Train Loss = 1.4449
+2024-01-18 00:57:36,220 - __main__ - INFO - Epoch 1 Batch 20: Train Loss = 1.4676
+2024-01-18 00:57:45,439 - __main__ - INFO - Epoch 1 Batch 40: Train Loss = 1.4835
+2024-01-18 00:57:54,496 - __main__ - INFO - Epoch 1 Batch 60: Train Loss = 1.4869
+2024-01-18 00:58:03,697 - __main__ - INFO - Epoch 1 Batch 80: Train Loss = 1.4515
+2024-01-18 00:58:12,636 - __main__ - INFO - Epoch 1 Batch 100: Train Loss = 1.4431
+2024-01-18 00:58:21,910 - __main__ - INFO - Epoch 1 Batch 120: Train Loss = 1.4243
+2024-01-18 00:58:30,200 - __main__ - INFO - Epoch 2 Batch 0: Train Loss = 1.4560
+2024-01-18 00:58:38,882 - __main__ - INFO - Epoch 2 Batch 20: Train Loss = 1.4649
+2024-01-18 00:58:47,657 - __main__ - INFO - Epoch 2 Batch 40: Train Loss = 1.4704
+2024-01-18 00:58:56,170 - __main__ - INFO - Epoch 2 Batch 60: Train Loss = 1.4878
+2024-01-18 00:59:04,939 - __main__ - INFO - Epoch 2 Batch 80: Train Loss = 1.4467
+2024-01-18 00:59:14,052 - __main__ - INFO - Epoch 2 Batch 100: Train Loss = 1.4304
+2024-01-18 00:59:23,185 - __main__ - INFO - Epoch 2 Batch 120: Train Loss = 1.4200
+2024-01-18 00:59:31,004 - __main__ - INFO - ------------ Save best model - TOTAL_LOSS: 1.3233 ------------
+2024-01-18 00:59:32,697 - __main__ - INFO - Epoch 3 Batch 0: Train Loss = 1.4325
+2024-01-18 00:59:41,629 - __main__ - INFO - Epoch 3 Batch 20: Train Loss = 1.4769
+2024-01-18 00:59:50,714 - __main__ - INFO - Epoch 3 Batch 40: Train Loss = 1.4725
+2024-01-18 00:59:59,742 - __main__ - INFO - Epoch 3 Batch 60: Train Loss = 1.5031
+2024-01-18 01:00:08,520 - __main__ - INFO - Epoch 3 Batch 80: Train Loss = 1.4675
+2024-01-18 01:00:17,181 - __main__ - INFO - Epoch 3 Batch 100: Train Loss = 1.4437
+2024-01-18 01:00:25,712 - __main__ - INFO - Epoch 3 Batch 120: Train Loss = 1.4209
+2024-01-18 01:00:33,724 - __main__ - INFO - Epoch 4 Batch 0: Train Loss = 1.4471
+2024-01-18 01:00:42,533 - __main__ - INFO - Epoch 4 Batch 20: Train Loss = 1.4857
+2024-01-18 01:00:51,200 - __main__ - INFO - Epoch 4 Batch 40: Train Loss = 1.4703
+2024-01-18 01:01:00,079 - __main__ - INFO - Epoch 4 Batch 60: Train Loss = 1.4892
+2024-01-18 01:01:08,950 - __main__ - INFO - Epoch 4 Batch 80: Train Loss = 1.4489
+2024-01-18 01:01:18,152 - __main__ - INFO - Epoch 4 Batch 100: Train Loss = 1.4386
+2024-01-18 01:01:27,512 - __main__ - INFO - Epoch 4 Batch 120: Train Loss = 1.4400
+2024-01-18 01:01:35,536 - __main__ - INFO - Epoch 5 Batch 0: Train Loss = 1.4588
+2024-01-18 01:01:45,313 - __main__ - INFO - Epoch 5 Batch 20: Train Loss = 1.4523
+2024-01-18 01:01:54,698 - __main__ - INFO - Epoch 5 Batch 40: Train Loss = 1.4553
+2024-01-18 01:02:04,218 - __main__ - INFO - Epoch 5 Batch 60: Train Loss = 1.4898
+2024-01-18 01:02:13,522 - __main__ - INFO - Epoch 5 Batch 80: Train Loss = 1.4582
+2024-01-18 01:02:22,527 - __main__ - INFO - Epoch 5 Batch 100: Train Loss = 1.4426
+2024-01-18 01:02:31,419 - __main__ - INFO - Epoch 5 Batch 120: Train Loss = 1.4405
+2024-01-18 01:02:39,923 - __main__ - INFO - Epoch 6 Batch 0: Train Loss = 1.4473
+2024-01-18 01:02:49,697 - __main__ - INFO - Epoch 6 Batch 20: Train Loss = 1.4516
+2024-01-18 01:02:59,358 - __main__ - INFO - Epoch 6 Batch 40: Train Loss = 1.4666
+2024-01-18 01:03:09,026 - __main__ - INFO - Epoch 6 Batch 60: Train Loss = 1.4718
+2024-01-18 01:03:18,613 - __main__ - INFO - Epoch 6 Batch 80: Train Loss = 1.4585
+2024-01-18 01:03:27,401 - __main__ - INFO - Epoch 6 Batch 100: Train Loss = 1.4393
+2024-01-18 01:03:35,562 - __main__ - INFO - Epoch 6 Batch 120: Train Loss = 1.4351
+2024-01-18 01:03:43,539 - __main__ - INFO - Epoch 7 Batch 0: Train Loss = 1.4530
+2024-01-18 01:03:52,002 - __main__ - INFO - Epoch 7 Batch 20: Train Loss = 1.4682
+2024-01-18 01:04:00,496 - __main__ - INFO - Epoch 7 Batch 40: Train Loss = 1.4638
+2024-01-18 01:04:08,970 - __main__ - INFO - Epoch 7 Batch 60: Train Loss = 1.4855
+2024-01-18 01:04:17,325 - __main__ - INFO - Epoch 7 Batch 80: Train Loss = 1.4459
+2024-01-18 01:04:25,743 - __main__ - INFO - Epoch 7 Batch 100: Train Loss = 1.4467
+2024-01-18 01:04:34,425 - __main__ - INFO - Epoch 7 Batch 120: Train Loss = 1.4470
+2024-01-18 01:04:41,839 - __main__ - INFO - Epoch 8 Batch 0: Train Loss = 1.4654
+2024-01-18 01:04:50,001 - __main__ - INFO - Epoch 8 Batch 20: Train Loss = 1.4645
+2024-01-18 01:04:58,019 - __main__ - INFO - Epoch 8 Batch 40: Train Loss = 1.4753
+2024-01-18 01:05:06,210 - __main__ - INFO - Epoch 8 Batch 60: Train Loss = 1.4866
+2024-01-18 01:05:14,689 - __main__ - INFO - Epoch 8 Batch 80: Train Loss = 1.4566
+2024-01-18 01:05:22,979 - __main__ - INFO - Epoch 8 Batch 100: Train Loss = 1.4349
+2024-01-18 01:05:31,268 - __main__ - INFO - Epoch 8 Batch 120: Train Loss = 1.4461
+2024-01-18 01:05:39,200 - __main__ - INFO - Epoch 9 Batch 0: Train Loss = 1.4552
+2024-01-18 01:05:47,478 - __main__ - INFO - Epoch 9 Batch 20: Train Loss = 1.4587
+2024-01-18 01:05:55,727 - __main__ - INFO - Epoch 9 Batch 40: Train Loss = 1.4686
+2024-01-18 01:06:04,345 - __main__ - INFO - Epoch 9 Batch 60: Train Loss = 1.4845
+2024-01-18 01:06:12,621 - __main__ - INFO - Epoch 9 Batch 80: Train Loss = 1.4483
+2024-01-18 01:06:21,571 - __main__ - INFO - Epoch 9 Batch 100: Train Loss = 1.4406
+2024-01-18 01:06:30,893 - __main__ - INFO - Epoch 9 Batch 120: Train Loss = 1.4389
+2024-01-18 01:06:38,886 - __main__ - INFO - Epoch 10 Batch 0: Train Loss = 1.4493
+2024-01-18 01:06:47,738 - __main__ - INFO - Epoch 10 Batch 20: Train Loss = 1.4553
+2024-01-18 01:06:56,522 - __main__ - INFO - Epoch 10 Batch 40: Train Loss = 1.4667
+2024-01-18 01:07:05,018 - __main__ - INFO - Epoch 10 Batch 60: Train Loss = 1.4830
+2024-01-18 01:07:13,976 - __main__ - INFO - Epoch 10 Batch 80: Train Loss = 1.4483
+2024-01-18 01:07:22,604 - __main__ - INFO - Epoch 10 Batch 100: Train Loss = 1.4370
+2024-01-18 01:07:31,157 - __main__ - INFO - Epoch 10 Batch 120: Train Loss = 1.4557
+2024-01-18 01:07:39,975 - __main__ - INFO - Epoch 11 Batch 0: Train Loss = 1.4563
+2024-01-18 01:07:49,554 - __main__ - INFO - Epoch 11 Batch 20: Train Loss = 1.4629
+2024-01-18 01:08:00,086 - __main__ - INFO - Epoch 11 Batch 40: Train Loss = 1.4693
+2024-01-18 01:08:10,378 - __main__ - INFO - Epoch 11 Batch 60: Train Loss = 1.4868
+2024-01-18 01:08:20,581 - __main__ - INFO - Epoch 11 Batch 80: Train Loss = 1.4502
+2024-01-18 01:08:31,689 - __main__ - INFO - Epoch 11 Batch 100: Train Loss = 1.4339
+2024-01-18 01:08:41,875 - __main__ - INFO - Epoch 11 Batch 120: Train Loss = 1.4422
+2024-01-18 01:08:51,458 - __main__ - INFO - Epoch 12 Batch 0: Train Loss = 1.4538
+2024-01-18 01:09:01,833 - __main__ - INFO - Epoch 12 Batch 20: Train Loss = 1.4604
+2024-01-18 01:09:12,075 - __main__ - INFO - Epoch 12 Batch 40: Train Loss = 1.4552
+2024-01-18 01:09:21,975 - __main__ - INFO - Epoch 12 Batch 60: Train Loss = 1.4783
+2024-01-18 01:09:32,332 - __main__ - INFO - Epoch 12 Batch 80: Train Loss = 1.4503
+2024-01-18 01:09:42,112 - __main__ - INFO - Epoch 12 Batch 100: Train Loss = 1.4422
+2024-01-18 01:09:52,754 - __main__ - INFO - Epoch 12 Batch 120: Train Loss = 1.4392
+2024-01-18 01:10:02,837 - __main__ - INFO - Epoch 13 Batch 0: Train Loss = 1.4640
+2024-01-18 01:10:13,036 - __main__ - INFO - Epoch 13 Batch 20: Train Loss = 1.4704
+2024-01-18 01:10:23,718 - __main__ - INFO - Epoch 13 Batch 40: Train Loss = 1.4674
+2024-01-18 01:10:34,114 - __main__ - INFO - Epoch 13 Batch 60: Train Loss = 1.4788
+2024-01-18 01:10:44,587 - __main__ - INFO - Epoch 13 Batch 80: Train Loss = 1.4424
+2024-01-18 01:10:55,248 - __main__ - INFO - Epoch 13 Batch 100: Train Loss = 1.4419
+2024-01-18 01:11:05,561 - __main__ - INFO - Epoch 13 Batch 120: Train Loss = 1.4428
+2024-01-18 01:11:15,307 - __main__ - INFO - Epoch 14 Batch 0: Train Loss = 1.4597
+2024-01-18 01:11:26,994 - __main__ - INFO - Epoch 14 Batch 20: Train Loss = 1.4692
+2024-01-18 01:11:38,240 - __main__ - INFO - Epoch 14 Batch 40: Train Loss = 1.4702
+2024-01-18 01:11:49,216 - __main__ - INFO - Epoch 14 Batch 60: Train Loss = 1.4841
+2024-01-18 01:12:00,826 - __main__ - INFO - Epoch 14 Batch 80: Train Loss = 1.4500
+2024-01-18 01:12:12,519 - __main__ - INFO - Epoch 14 Batch 100: Train Loss = 1.4429
+2024-01-18 01:12:23,218 - __main__ - INFO - Epoch 14 Batch 120: Train Loss = 1.4451
+2024-01-18 01:12:33,196 - __main__ - INFO - Epoch 15 Batch 0: Train Loss = 1.4563
+2024-01-18 01:12:44,081 - __main__ - INFO - Epoch 15 Batch 20: Train Loss = 1.4664
+2024-01-18 01:12:55,015 - __main__ - INFO - Epoch 15 Batch 40: Train Loss = 1.4694
+2024-01-18 01:13:06,173 - __main__ - INFO - Epoch 15 Batch 60: Train Loss = 1.4819
+2024-01-18 01:13:17,964 - __main__ - INFO - Epoch 15 Batch 80: Train Loss = 1.4453
+2024-01-18 01:13:29,893 - __main__ - INFO - Epoch 15 Batch 100: Train Loss = 1.4258
+2024-01-18 01:13:42,564 - __main__ - INFO - Epoch 15 Batch 120: Train Loss = 1.4501
+2024-01-18 01:13:54,475 - __main__ - INFO - Epoch 16 Batch 0: Train Loss = 1.4681
+2024-01-18 01:14:08,274 - __main__ - INFO - last saved model is in epoch 0
+2024-01-18 01:14:36,864 - __main__ - INFO - last saved model is in epoch 0
+2024-01-18 01:14:40,291 - __main__ - INFO - Batch 0: Test Loss = -3.3232
+2024-01-18 01:14:43,865 - __main__ - INFO - 
+==>Predicting on test
+2024-01-18 01:14:43,873 - __main__ - INFO - Test Loss = -3.3578
